@@ -19,9 +19,7 @@ export class AuthService {
             if (userAccount) {
                 // call another method
                 // return this.login({email, password});
-                console.log("user registered successfully");
-                console.log("userAccount ")
-                console.log(userAccount);
+               
             } else {
                return  userAccount;
             }
